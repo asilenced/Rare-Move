@@ -1,2 +1,1 @@
-# Rare-Move
-Move smart-contract
+Aptos-smartcontracts

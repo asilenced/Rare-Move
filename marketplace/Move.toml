@@ -1,0 +1,10 @@
+[package]
+name = "ItsRare"
+version = "0.0.0"
+
+[addresses]
+ItsRare = "143f6a7a07c76eae1fc9ea030dbd9be3c2d46e538c7ad61fe64529218ff44bc4"
+
+[dependencies]
+AptosFramework = { local = "/Users/a1/workspace/Aptos/aptos-core-smart/aptos-move/framework/aptos-framework" }
+AptosToken = { local = "/Users/a1/workspace/Aptos/aptos-core-smart/aptos-move/framework/aptos-token" }
